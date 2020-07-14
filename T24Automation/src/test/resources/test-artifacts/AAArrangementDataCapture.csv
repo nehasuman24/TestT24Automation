@@ -1,0 +1,7 @@
+Customer,100284
+Currency,USD
+Amount,2000
+PayInAccount,72141
+AccountDebitActivity,DEPOSITS-DEBIT-ARRANGEMENT
+PayOutAccount,70898
+AccountCreditActivity,DEPOSITS-CREDIT-ARRANGEMENT

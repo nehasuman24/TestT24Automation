@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22339" started-at="2020-05-14T16:18:11Z" finished-at="2020-05-14T16:18:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22339" started-at="2020-05-14T16:18:11Z" finished-at="2020-05-14T16:18:33Z">
+      <class name="com.test.purpose.HandlingWebtable">
+        <test-method status="PASS" signature="webtable()[pri:0, instance:com.test.purpose.HandlingWebtable@1888ff2c]" name="webtable" duration-ms="22303" started-at="2020-05-14T21:48:11Z" finished-at="2020-05-14T21:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtable -->
+      </class> <!-- com.test.purpose.HandlingWebtable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
